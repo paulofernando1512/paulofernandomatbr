@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Professor Paulo Fernando",
-    "currentPage": "portais.html",
+    "currentPage": "portais2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1833,7 +1833,7 @@
       "settings": {
         "meta_descr": "Professor Paulo Fernando",
         "title": "Sobre",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -4291,11 +4291,11 @@
         }
       ]
     },
-    "portais.html": {
+    "portais2.html": {
       "settings": {
         "meta_descr": "Alguns portais de dados úteis",
-        "title": "Portais",
-        "order": 5
+        "title": "Portais de dados",
+        "order": 4
       },
       "components": [
         {
